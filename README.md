@@ -1,12 +1,19 @@
-### Olá. Sou Carina Siqueira! 👋
-
-- 🔭 Hoje trabalho com Data Analytics
-- 🌱 Estou apreendendo Python 
-- 😄 Pronouns: ela/dela
-
-<div>
-    <a href="https:\\github.com/cacasiqueira">
-    <img height="18em" src="https://github-readme-stas.vercel.app/api?username=cacasiqueira&show_icons=true&theme+dracula&include_all_commits=true&count_private=true"/>
-    <img height="18em" src="https://github-readme-stas.vercel.app/api/top-langs/?username=cacasiqueira&layout=compact&langs_count=16&theme=dracula"/>
- <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<div align="center">
+  <h1>Olá, sou a Carina Siqueira! 👋</h1>
+  <p><em>Entusiasta de IA, Desenvolvedora e Eterna Aprendiz</em></p>
 </div>
+
+---
+
+### 💡 Sobre Mim & Visão
+Sou apaixonada por tecnologia, engenharia de software e pelo universo de inteligência artificial. Acredito que o aprendizado contínuo é a chave para evoluir, explorando sempre novas ferramentas, automações e a intersecção entre criatividade e inovação digital.
+
+*   🤖 **Foco Tecnológico:** Inteligência Artificial, Engenharia de Prompt, automações inteligentes e ecossistemas web modernos.
+*   📊 **Dados & Soluções:** Curiosidade constante por análise de dados e otimização de fluxos de trabalho.
+*   🌱 **Filosofia:** Sempre uma aprendiz, buscando transformar ideias em projetos reais através da tecnologia.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas do Core
+```text
+[ Inteligência Artificial ] • [ Python ] • [ Next.js ] • [ Tailwind CSS ] • [ Oracle ] • [ Git ]
